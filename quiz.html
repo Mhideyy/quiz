@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App</title>
+
+    <meta name="mhidey" content="A simple quiz application" />
+    <meta name="Mhidey" content="Quiz App" />
+
+    <link rel="stylesheet" href="quiz.css" />
+    <link rel="icon" href="img/speech-bubble.png" />
+  </head>
+  <body>
+    <div class="container">
+      <div class="top-sec">
+        <h1>Quiz Time</h1>
+        <p id="question-number"></p>
+      </div>
+
+      <p id="question-text"></p>
+      <div>
+        <ol type="a" class="options" id="options">
+          <li class="option-btn"></li>
+          <li class="option-btn"></li>
+          <li class="option-btn"></li>
+          <li class="option-btn"></li>
+          <li class="option-btn"></li>
+        </ol>
+        
+        <p id="answerResult"></p>
+      </div>
+
+      <div class="feedback">
+        <p id="final-score"></p>
+        <!-- <button id="restart-button">Restart Quiz</button> -->
+      </div>
+
+      <!-- hitory
+       <div class="history-section">
+        <div class="history">
+          <h2>Answer History</h2>
+          <ul id="history-list"></ul>
+        </div>
+       </div> -->
+
+
+
+
+    <script src="quiz.js"></script>
+  </body>
+</html>

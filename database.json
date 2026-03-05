@@ -1,0 +1,65 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who is the Office manager in OGIS",
+      "options": [
+        "Ms Catherine",
+        "Mr Kyle",
+        "Ms Blessing",
+        "Ms Amina",
+        "Mr Chucks"
+      ],
+      "answer": "Ms Catherine"
+    },
+    {
+      "id": 2,
+      "question": "Who is the Supply Officer in OGIS?",
+      "options": [
+        "Mrs Glory",
+        "Mrs Eyinna",
+        "Mr Samuel",
+        "Mr Abraham",
+        "Mr Emmanuel"
+      ],
+      "answer": "Mr Samuel"
+    },
+    {
+      "id": 3,
+      "question": "Who is the Account Officer in OGIS?",
+      "options": [
+        "Ms Blessing",
+        "Ms Amina",
+        "Mr Chucks",
+        "Mr Samuel",
+        "Mrs Glory"
+      ],
+      "answer": "Ms Glory"
+    },
+
+    {
+      "id": 4,
+      "question": "Who is the Assistant Admin Officer in OGIS?",
+      "options": [
+        "Mr Chucks",
+        "Mr Samuel",
+        "Mrs Glory",
+        "Mrs Eyinna",
+        "Mr Abraham"
+      ],
+      "answer": "Mrs Eyinna"
+    },
+    {
+      "id": 5,
+      "question": "Who is the P.A to the CEO in OGIS?",
+      "options": [
+        "Ms Catherine",
+        "Mr Kyle",
+        "Ms Blessing",
+        "Ms Amina",
+        "Mr Chucks"
+      ],
+      "answer": "Mr Kyle"
+    }
+  ]
+}
